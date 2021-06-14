@@ -1,0 +1,30 @@
+{
+  "botToken": "BOTTOKEN",
+  "botOwner": "SAHIPID",
+  "botPrefix": "PREFİX",
+  "botVoiceChannel": "BOTUNGIRECEGISESKANALID",
+  "botActivityName": "BOTUNDURUMU",
+  "botActivityType": "WATCHING/LISTENING/PLAYING",
+  "botStatus": "online/dnd/idle",
+
+  "mongoConnectionLink": "MONGODBCONNECTLINK",
+
+  "welcomeChannel": "HGKANALID",
+  "rulesChannel": "KURALLARKANALID",
+  "Suspicious": "SUPHELIROLID",
+  "Unregistered": "KAYITSIZROLID",
+
+
+  "FamilyRole": "TAGROLID",
+  "Tag": "TAG",
+  "Untag": "UNTAG",
+
+  "RegisterStaff": ["YETKILI1", "YETKILI2"],
+  "ManRole": "ERKEKROLU",
+  "WomanRole": "KADINROLU",
+  "BoosterRole": "BOOSTERROLU",
+
+  "Yes": "✅",
+  "No": "❌"
+
+}

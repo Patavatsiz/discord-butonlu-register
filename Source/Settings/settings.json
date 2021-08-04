@@ -1,28 +1,28 @@
 {
-  "botToken": "BOTTOKEN",
-  "botOwner": "SAHIPID",
-  "botPrefix": "PREFİX",
-  "botVoiceChannel": "BOTUNGIRECEGISESKANALID",
-  "botActivityName": "BOTUNDURUMU",
-  "botActivityType": "WATCHING/LISTENING/PLAYING",
-  "botStatus": "online/dnd/idle",
+  "botToken": "NzkxMzIyOTQwNzk2ODI5NzA2.X-Ne6w.rYbWT7ku1Fkk4fBr3KWwLqFqyVU",
+  "botOwner": "757661700047634624",
+  "botPrefix": "!",
+  "botVoiceChannel": "872261340167823411",
+  "botActivityName": "Developer by Luther",
+  "botActivityType": "PLAYING",
+  "botStatus": "dnd",
 
-  "mongoConnectionLink": "MONGODBCONNECTLINK",
+  "mongoConnectionLink": "mongodb+srv://Lutheer:hP4ceQSzH9WS6eRm@cluster0.q8j1o.mongodb.net/Database?retryWrites=true&w=majority",
 
-  "welcomeChannel": "HGKANALID",
-  "rulesChannel": "KURALLARKANALID",
-  "Suspicious": "SUPHELIROLID",
-  "Unregistered": "KAYITSIZROLID",
+  "welcomeChannel": "864913177886982145",
+  "rulesChannel": "864913182844518460",
+  "Suspicious": "867521034818027530",
+  "Unregistered": "864913156370333696",
 
 
-  "FamilyRole": "TAGROLID",
-  "Tag": "TAG",
-  "Untag": "UNTAG",
+  "FamilyRole": "864913152968753192",
+  "Tag": "Marvellous",
+  "Untag": "",
 
-  "RegisterStaff": ["YETKILI1", "YETKILI2"],
-  "ManRole": "ERKEKROLU",
-  "WomanRole": "KADINROLU",
-  "BoosterRole": "BOOSTERROLU",
+  "RegisterStaff": ["864913146601537566", "867765142075080764", "867765236874084404", "864911472324902993", "864911472324902993", "],
+  "ManRole": "864913155713138768",
+  "WomanRole": "864913155050307624",
+  "BoosterRole": "864915516644130828",
 
   "Yes": "✅",
   "No": "❌"
